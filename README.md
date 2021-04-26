@@ -5,4 +5,4 @@
 ## 201 Notes
 
 __Daily Reading__
- - [Reading 1](https://canvas.instructure.com/courses/2689857/discussion_topics/11056261?module_item_id=44645500)
+ - [Reading 1](https://github.com/phmurphy212/reading-notes/blob/main/read-01)
