@@ -4,4 +4,5 @@
 
 ## 201 Notes
 
-* not sure if I'm doing this right or not... *
+__Daily Reading__
+ - Reading and link to assignment
