@@ -5,7 +5,7 @@
 ## 201 Notes
 
 __Daily Reading Table of Contents__
- - [Reading 1](class-01)
+ - [Reading 1](class-01.md)
 - [Reading 2](https://github.com/phmurphy212/reading-notes/blob/main/class-02)
 - [Reading 3](https://github.com/phmurphy212/reading-notes/blob/main/class-03)
 - [Reading 4](https://github.com/phmurphy212/reading-notes/blob/main/class-04)
