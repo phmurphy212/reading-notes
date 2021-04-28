@@ -7,15 +7,15 @@ In this section of the text, Duckett talks about several ways to manipulate text
 Several of these elements seem to serve a very similar function, so let's look at those
 
 #### Bold and Strong
-```<b> <strong>
+```<b> <strong>```
 - Both of these tags create a bolded element
 
 #### Italics and Emphasis
-```<i> <em>
+```<i> <em>```
 - These two tags italicize text
 
 #### Strikethrough and delete
-```<s> <del>
+```<s> <del>```
 - Strikes through the text between these tags
 
 The text also discusses some additional ways to manipulate text. 
