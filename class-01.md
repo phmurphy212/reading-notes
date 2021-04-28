@@ -57,7 +57,7 @@ The big take away is that the design of your webpage should be optimized to meet
 
 # Javascript & Jquery - Jon Duckett
 
-### The ABS of Programming
+### The ABC of Programming
 
 This text describes the steps of creating a script as 
 1. Define the goal
