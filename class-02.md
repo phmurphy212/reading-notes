@@ -46,7 +46,7 @@ This chapter starts out talking about sort of how to set up your CSS document. Y
 Then it gets into a bunchof CSS selectors, which I will honestly probably look up frequently until I have them memorized.
 The part that I really want to commit to memory is the rules for host CSS cascades. 
 
-> 1. Last Rule: will take the last rule, if two rules are set for a single selector
+  1. Last Rule: will take the last rule, if two rules are set for a single selector
   2. Specificity: A more specific rule will take precedence
   3. Important: A rule you set as important explicitly
 
