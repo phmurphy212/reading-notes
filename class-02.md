@@ -28,7 +28,7 @@ We also learn about headings, of which there are six, which are written as
 <h1> Thing you want as a heading </h1>
 ```
 Subscript and superscript are also taught as ```<sup> & <sub>```
-Finally we learn about line breaks (```<br />) and horizontal rule, which is just a line across the page (```<hr \>) 
+Finally we learn about line breaks (```<br >) and horizontal rule, which is just a line across the page (```<hr \>) 
 
 ## Introducting CSS
 
