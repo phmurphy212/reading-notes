@@ -6,22 +6,25 @@ In this section of the text, Duckett talks about several ways to manipulate text
 
 Several of these elements seem to serve a very similar function, so let's look at those
 
-#### <b> & <strong>
+#### Bold and Strong
+```<b> <strong>
 - Both of these tags create a bolded element
 
-#### <i> & <em>
+#### Italics and Emphasis
+```<i> <em>
 - These two tags italicize text
 
-#### <s> & <del>
+#### Strikethrough and delete
+```<s> <del>
 - Strikes through the text between these tags
 
 The text also discusses some additional ways to manipulate text. 
 
 There is also a group of tags that just do what their name implies, such as:
-- <cite>
-- <address>
-- <abbr>
-- <dfn>
+- ```<cite>```
+- ```<address>```
+- ```<abbr>```
+- ```<dfn>```
 
 We also learn about headings, of which there are six, which are written as
 ```
