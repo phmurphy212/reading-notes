@@ -56,7 +56,7 @@ Finally it talks about how inheritance works in CSS where things like font-famil
 
 ## Basic Javascript Instructions
 
-This chapter was an ![absolute unit](https://miro.medium.com/max/2160/0*lTk9nVcJheFq-Q4B.jpg)
+This chapter was an absolute unit ![absolute unit](https://miro.medium.com/max/2160/0*lTk9nVcJheFq-Q4B.jpg)
 
 It covers setting variables and assigning them a value, and while they use var, we're using let. 
 Ducket also shows how to set a number as a variable, as well as a boolean.
