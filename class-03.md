@@ -91,7 +91,8 @@ He talks about ```switch``` statements, which I think basically just allow you t
 The last topic in this section talks about all of the different types of loops. Since I don't actually understand them very throughly, I'm just going to break them down into their parts, for the sake of memory.
 
 ##### loop components?
-```for (i = 0;                           i < 8;                     i++)```
-     **starting value of variable**    **until no longer true**   **action to take**
+```for (i = 0;```: **starting value of variable**
+```i < 8;```: **until no longer true** 
+```i++)```: **action to take**
 
 I think that the loops are all pretty similar, and don't really know why you'd use one over anothers
