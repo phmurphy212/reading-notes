@@ -2,7 +2,7 @@
 
 ## Images
 
-So the images section is actually *fairly* straigtforward. It discusses storing your images and some best practices around that. It also talks about how the placement of your image tags impacts how it looks on the page. Duckett discusses setting the size of your image, and also how to make captions. I did appreciate the quick visual design tooling list that was listed in the book. I like to use several tools such as ![Canva](https://canva.com) for general image manipulation, and ![this tool](https://remove.bg) to take the background off of an image.
+So the images section is actually *fairly* straigtforward. It discusses storing your images and some best practices around that. It also talks about how the placement of your image tags impacts how it looks on the page. Duckett discusses setting the size of your image, and also how to make captions. I did appreciate the quick visual design tooling list that was listed in the book. I like to use several tools such as [Canva](https://canva.com) for general image manipulation, and [this tool](https://remove.bg) to take the background off of an image.
 
 ## Colors
 
