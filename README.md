@@ -1,8 +1,10 @@
 # Reading notes
 ### A Central Repository of Reading Notes from Code Fellows
 
+## Code 301 - Intermediate Software Development
 
-## 201 Notes
+
+## Code 201 - Foundations of Software Development
 
 __201 Daily Reading Table of Contents__
 - [Reading 1](class-01.md)
