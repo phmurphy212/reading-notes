@@ -3,7 +3,7 @@
 
 
 ## Things I want to know more about
-
+### I want to learn to code :)
 
 ## Code 301 - Intermediate Software Development
 - [Prework](./301/Prework.md)
